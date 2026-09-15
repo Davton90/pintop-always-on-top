@@ -1,0 +1,4 @@
+# Dev-only helpers, not needed to build/use the exe
+gen_icon.py
+icon_preview.png
+icon_check.png
